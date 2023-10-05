@@ -369,7 +369,7 @@ const perGroup = 1000;
 boardPassengers(180, 3);
 */
 
-(function () {
+/*(function () {
   const header = document.querySelector('h1');
   header.style.color = 'red';
 
@@ -377,3 +377,4 @@ boardPassengers(180, 3);
     header.style.color = 'blue';
   });
 })();
+*/
